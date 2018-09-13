@@ -1,0 +1,37 @@
+body{
+  background-image: linear-gradient(to top, gray, 60%, lightblue);
+  text-align: center;
+}
+nav {
+  background-color: gray;
+  font-size: 25px;
+  font-family: Comic Sans MS;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+nav ul {
+  margin: 0;
+  padding-right: 70px;
+  list-style: none;
+}
+nav li:hover {
+  background-color: lightblue;
+  color: blue;
+}
+li {
+  display: inline;
+}
+li a {
+  text-decoration: none;
+  padding: 14px 16px;
+}
+.rotate-a {
+  transform: rotate(45deg);
+}
+.rotate-b {
+  transform: rotate(-45deg);
+}
+footer {
+  text-align: left;
+}
