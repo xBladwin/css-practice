@@ -32,6 +32,6 @@ li a {
 .rotate-b {
   transform: rotate(-45deg);
 }
-footer {
+#bottom {
   text-align: left;
 }
