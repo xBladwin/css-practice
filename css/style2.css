@@ -29,3 +29,11 @@ li a {
 #blue{
   border-bottom: 5px solid lightblue;
 }
+.foot{
+  text-align: left;
+  font-size: 10px;
+}
+#links{
+  font-size: 15px;
+  text-align: right;
+}
