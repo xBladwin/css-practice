@@ -8,11 +8,13 @@ nav {
   font-family: Comic Sans MS;
   position: fixed;
   top: 0;
+  left: 0;
+  right: 0;
   width: 100%;
 }
 nav ul {
   margin: 0;
-  padding-right: 70px;
+  padding-right: 60px;
   list-style: none;
 }
 nav li:hover {
@@ -24,7 +26,7 @@ li {
 }
 li a {
   text-decoration: none;
-  padding: 14px 16px;
+  padding: 15px 16px;
 }
 .rotate-a {
   transform: rotate(45deg);
